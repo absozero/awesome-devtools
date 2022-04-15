@@ -3,11 +3,12 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/<YOUR GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml/badge.svg)](https://github.com/<YOURE GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml)
+# Absozero's tools, apps, and resources
+[![Awesome](https://awesome.re/badge.svg)]
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+A whole knowledge base to take inspiration out of!
 
 <!-- image -->
 
@@ -31,9 +32,10 @@ A multitude of tools and apps, as well as other resources showing where I am per
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Command line - Linux
+**[`^        back to top        ^`](#)**
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [Apple](https://apple.com) -  
 
 ## Section 1
 
