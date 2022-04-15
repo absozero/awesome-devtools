@@ -33,11 +33,13 @@ A multitude of tools and apps, as well as other resources showing where I am per
 <!-- CONTENT -->
 
 ## Command line - Linux
-- [Table of contents](#contents)
+[Table of Contents](#contents)
 
-- [Apple](https://apple.com) -  
+
+- [Topgrade]() - A full command line update system 
 
 ## Section 1
+[Table of Contents](#contents)
 
 - [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
 
