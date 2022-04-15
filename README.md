@@ -33,7 +33,7 @@ A multitude of tools and apps, as well as other resources showing where I am per
 <!-- CONTENT -->
 
 ## Command line - Linux
-**[`^        back to top        ^`](#)**
+- [Table of contents](#contents)
 
 - [Apple](https://apple.com) -  
 
