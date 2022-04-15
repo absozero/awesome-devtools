@@ -17,7 +17,7 @@ A template for an awesome list with required conventions out of the box!
 
 <!-- description -->
 
-A one line description of the product or tool. See [awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an example.
+A multitude of tools and apps, as well as other resources showing where I am personally and acting somewhat as a knowledge base for my usage.
 
 </div>
 
