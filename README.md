@@ -20,14 +20,18 @@ A whole knowledge base to take inspiration out of!
 
 A multitude of tools and apps, as well as other resources showing where I am personally and acting somewhat as a knowledge base for my usage.
 
+```
+Most of these tools are open source
+```
+
 </div>
 
 <!-- TOC -->
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
+- [Linux command-line](#command-line---linux)
+- [Web services](#web-apps)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -36,12 +40,20 @@ A multitude of tools and apps, as well as other resources showing where I am per
 [Table of Contents](#contents)
 
 
-- [Topgrade]() - A full command line update system 
+- [Hyperfine](https://github.com/sharkdp/hyperfine) - An insane Benchmarking tool to compare speeds 
 
-## Section 1
+- [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - A streamlined task manager on the cli.
+
+- [Topgrade](https://github.com/r-darwish/topgrade) - A full command line update system
+
+- [Gping](https://github.com/orf/gping) - Ping with a graph. Exponentially better
+
+- []
+
+## Web apps
 [Table of Contents](#contents)
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [Uptime-kuma](https://github.com/louislam/uptime-kuma) - A selfhostable 
 
 <!-- END CONTENT -->
 
