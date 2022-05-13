@@ -21,7 +21,7 @@ A whole knowledge base to take inspiration out of!
 A multitude of tools and apps, as well as other resources showing where I am personally and acting somewhat as a knowledge base for my usage.
 
 ```
-Most of these tools are open source
+All of these tools and/or resources are open source unless specified
 ```
 
 </div>
@@ -32,6 +32,7 @@ Most of these tools are open source
 
 - [Linux command-line](#command-line---linux)
 - [Web services](#web-apps)
+- [Websites](#websites)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -48,14 +49,19 @@ Most of these tools are open source
 
 - [Gping](https://github.com/orf/gping) - Ping with a graph. Exponentially better
 
-- []
+- [git](https://git.kernel.org/pub/scm/git/git.git) - An amazing and highly used version control system.
+
 
 ## Web apps
 [Table of Contents](#contents)
 
-- [Uptime-kuma](https://github.com/louislam/uptime-kuma) - A selfhostable 
+- [Uptime-kuma](https://github.com/louislam/uptime-kuma) - A selfhostable uptime monitor
 
 <!-- END CONTENT -->
+
+## Websites
+
+- [Free-prog-books](https://ebookfoundation.github.io/free-programming-books) - A resource to find free books relating to tech.
 
 ## Follow
 
