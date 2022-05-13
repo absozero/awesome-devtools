@@ -57,6 +57,8 @@ All of these tools and/or resources are open source unless specified
 
 - [Uptime-kuma](https://github.com/louislam/uptime-kuma) - A selfhostable uptime monitor
 
+- [Phpmyadmin]() - Manage mysql/mariadb db's easily!
+
 <!-- END CONTENT -->
 
 ## Websites
