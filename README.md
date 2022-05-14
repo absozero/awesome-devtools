@@ -65,6 +65,8 @@ All of these tools and/or resources are open source unless specified
 
 - [Free-prog-books](https://ebookfoundation.github.io/free-programming-books) - A resource to find free books relating to tech.
 
+- [Hacker News](https://news.ycombinator.com/) - A news source for tech and other related topics. `closed source`
+
 ## Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
