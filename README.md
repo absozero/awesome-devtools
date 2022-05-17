@@ -57,7 +57,7 @@ All of these tools and/or resources are open source unless specified
 
 - [Uptime-kuma](https://github.com/louislam/uptime-kuma) - A selfhostable uptime monitor
 
-- [Phpmyadmin]() - Manage mysql/mariadb db's easily!
+- [Phpmyadmin](https://www.phpmyadmin.net/) - Manage mysql/mariadb db's easily!
 
 <!-- END CONTENT -->
 
@@ -67,6 +67,7 @@ All of these tools and/or resources are open source unless specified
 
 - [Hacker News](https://news.ycombinator.com/) - A news source for tech and other related topics. `closed source`
 
+- [Carbon](https://carbon.now.sh/) - A tool to make beautiful pictures of code.
 ## Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
