@@ -40,7 +40,23 @@ All of these tools and/or resources are open source unless specified
 ## Command line - Linux
 [Table of Contents](#contents)
 
+- [Bat](https://github.com/sharkdp/bat) - A cat alternative with syntax highlighting and much more.
+
+- [Broot](https://github.com/Canop/broot) - A modern `tree` alternative, with many more features than its predecessor.
+
 - [Chezmoi](https://chezmoi.io) - A dotfile manager with a high number of features and tools to make managing dotfiles easy
+
+- [Delta](https://github.com/dandavison/delta) - A tool to see differences between text files.
+
+- [Duf](https://github.com/muesli/duf) - A df alternative that is fast and informative.
+
+- [Dust](https://github.com/bootandy/dust) - An alternative to du to see storage usage.
+
+- [Exa](https://github.com/ogham/exa) - A fast and modern alternative for the `ls` command.
+
+- [fd](https://github.com/sharkdp/fd) - A modern alternative to the find command.
+
+- [fzf](https://github.com/junegunn/fzf) - A fuzzy finder that can be used in many environments, from vim to cd'ing
 
 - [git](https://git.kernel.org/pub/scm/git/git.git) - An amazing and highly used version control system.
 
@@ -48,11 +64,25 @@ All of these tools and/or resources are open source unless specified
 
 - [Hyperfine](https://github.com/sharkdp/hyperfine) - An insane benchmarking tool to compare speeds .
 
+- [Httpie](https://github.com/httpie/httpie) - An http client meant to be used with api's. Also look at [curlie](https://github.com/rs/curlie) for a more curl-like product, and [xh](https://github.com/ducaale/xh) for sending requests.
+
+- [jq](https://github.com/stedolan/jq) - A parser for all things json
+
+- [Modern-unix-commands](https://github.com/ibraheemdev/modern-unix) - A set of modern linux alternatives for older commands.
+
 - [Restic](https://restic.net) - A cross platform backup system with many features regarding security and general use.
+
+- [Ripgrep](https://github.com/BurntSushi/ripgrep) - Modern alternative to grep. It is much faster than what it tries to replace.
+
+- [sd](https://github.com/chmln/sd) - A modern alternative to what sed has to offer.
 
 - [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - A streamlined task manager on the cli.
 
+- [tldr](https://github.com/tldr-pages/tldr) - A simpler to read and easier to read community-based alternative to manpages
+
 - [Topgrade](https://github.com/r-darwish/topgrade) - A full command line update system
+
+- [Zoxide](https://github.com/ajeetdsouza/zoxide) - A modern alternative to `cd` that allows for quick movement and remembering directories.
 
 ## Web apps
 [Table of Contents](#contents)
@@ -76,8 +106,6 @@ All of these tools and/or resources are open source unless specified
 ## Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-
-Who else should we be following!?
 
 ## Contributing
 
