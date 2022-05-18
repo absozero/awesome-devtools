@@ -40,17 +40,19 @@ All of these tools and/or resources are open source unless specified
 ## Command line - Linux
 [Table of Contents](#contents)
 
+- [Chezmoi](https://chezmoi.io) - A dotfile manager with a high number of features and tools to make managing dotfiles easy
 
-- [Hyperfine](https://github.com/sharkdp/hyperfine) - An insane Benchmarking tool to compare speeds 
+- [git](https://git.kernel.org/pub/scm/git/git.git) - An amazing and highly used version control system.
+
+- [Gping](https://github.com/orf/gping) - Ping with a graph. Exponentially better than regular ping in many cases.
+
+- [Hyperfine](https://github.com/sharkdp/hyperfine) - An insane benchmarking tool to compare speeds .
+
+- [Restic](https://restic.net) - A cross platform backup system with many features regarding security and general use.
 
 - [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - A streamlined task manager on the cli.
 
 - [Topgrade](https://github.com/r-darwish/topgrade) - A full command line update system
-
-- [Gping](https://github.com/orf/gping) - Ping with a graph. Exponentially better
-
-- [git](https://git.kernel.org/pub/scm/git/git.git) - An amazing and highly used version control system.
-
 
 ## Web apps
 [Table of Contents](#contents)
