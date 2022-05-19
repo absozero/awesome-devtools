@@ -4,12 +4,13 @@
 
 <!--lint ignore no-dead-urls-->
 # Absozero's tools, apps, and resources
-[![Awesome](https://awesome.re/badge.svg)]
+![Awesome](https://awesome.re/badge.svg)
 
 <!-- subtitle -->
 
 A whole knowledge base to take inspiration out of!
 
+---
 <!-- image -->
 
 <!-- <a href="" target="_blank" rel="noopener noreferrer">
@@ -30,19 +31,35 @@ All of these tools and/or resources are open source unless specified
 
 ## Contents
 
+- [Desktop Apps](#desktop-apps)
 - [Linux command-line](#command-line---linux)
-- [Web services](#web-apps)
+- [Selfhosted services](#selfhosted-apps)
 - [Websites](#websites)
 - [Follow](#follow)
 
 <!-- CONTENT -->
 
+## Desktop apps
+[Table of Contents](#contents)
+
+---
+
+- [gimp](https://gimp.org) - A free and open source replacement to photoshop.
+
+- [VSCodium](https://vscodium.com/) - A fully open source liscenced and usable build of VSCode, which by default has closed-source binaries
+
 ## Command line - Linux
 [Table of Contents](#contents)
+
+---
+
+- [aria2](https://github.com/aria2/aria2) - A command line downloader with fast speeds/
 
 - [Bat](https://github.com/sharkdp/bat) - A cat alternative with syntax highlighting and much more.
 
 - [Broot](https://github.com/Canop/broot) - A modern `tree` alternative, with many more features than its predecessor.
+
+- [Cava](https://github.com/karlstav/cava) - A audio visualizer for the terminal, with loads of features
 
 - [Chezmoi](https://chezmoi.io) - A dotfile manager with a high number of features and tools to make managing dotfiles easy
 
@@ -84,8 +101,10 @@ All of these tools and/or resources are open source unless specified
 
 - [Zoxide](https://github.com/ajeetdsouza/zoxide) - A modern alternative to `cd` that allows for quick movement and remembering directories.
 
-## Web apps
+## Selfhosted apps
 [Table of Contents](#contents)
+
+---
 
 - [Uptime-kuma](https://github.com/louislam/uptime-kuma) - A selfhostable uptime monitor
 
@@ -94,6 +113,9 @@ All of these tools and/or resources are open source unless specified
 <!-- END CONTENT -->
 
 ## Websites
+[Table of Contents](#contents)
+
+---
 
 - [Free-prog-books](https://ebookfoundation.github.io/free-programming-books) - A resource to find free books relating to tech.
 
@@ -104,13 +126,22 @@ All of these tools and/or resources are open source unless specified
 - [Github1s](https://github1s.com) - A tool to show the structure of github repositories, as if viewing them in VSCode.
 
 ## Follow
+[Table of Contents](#contents)
 
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
+---
+
+[Follow me on my platforms](https://linktr.ee/Absozero)
 
 ## Contributing
+[Table of Contents](#contents)
+
+---
 
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
+[Table of Contents](#contents)
 
-<!-- [Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)! -->
+---
+
+[Thanks goes to these contributors](https://github.com/absozero/tools-n-apps/graphs/contributors)! <--
