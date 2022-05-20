@@ -1,4 +1,4 @@
-<div align="center">
+ ![]<div align="center">
 
 <!-- title -->
 
@@ -46,7 +46,7 @@ All of these tools and/or resources are open source unless specified
 
 ---
 
-- [gimp](https://gimp.org) - A free and open source replacement to photoshop.
+- [gimp](https://gimp.org) - A free and open source replacement to photoshop. ![ossoft][oss]
 
 - [VSCodium](https://vscodium.com/) - A fully open source liscenced and usable build of VSCode, which by default has closed-source binaries
 
