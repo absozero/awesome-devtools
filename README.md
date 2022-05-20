@@ -27,6 +27,9 @@ A multitude of tools and apps, as well as other resources showing where I am per
 All of these tools and/or resources are open source unless specified
 ```
 
+![ossoft][oss] - Open source software
+![frees][free] - Free software
+
 </div>
 
 <!-- TOC -->
@@ -48,14 +51,14 @@ All of these tools and/or resources are open source unless specified
 
 - [gimp](https://gimp.org) - A free and open source replacement to photoshop. ![ossoft][oss]
 
-- [VSCodium](https://vscodium.com/) - A fully open source liscenced and usable build of VSCode, which by default has closed-source binaries
+- [VSCodium](https://vscodium.com/) - A fully open source liscenced and usable build of VSCode, which by default has closed-source binaries ![ossoft][oss]
 
 ## Command line - Linux
 [Table of Contents](#contents)
 
 ---
 
-- [aria2](https://github.com/aria2/aria2) - A command line downloader with fast speeds/
+- [aria2](https://github.com/aria2/aria2) - A command line downloader with fast speeds
 
 - [Bat](https://github.com/sharkdp/bat) - A cat alternative with syntax highlighting and much more.
 
