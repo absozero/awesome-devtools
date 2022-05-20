@@ -6,6 +6,8 @@
 # Absozero's tools, apps, and resources
 ![Awesome](https://awesome.re/badge.svg)
 
+[oss]: ./assets/OSS.svg
+[free]: ./assets/free.svg
 <!-- subtitle -->
 
 A whole knowledge base to take inspiration out of!
