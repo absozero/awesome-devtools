@@ -100,6 +100,12 @@ All of these tools and/or resources are open source unless specified
 
 - [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - A streamlined task manager on the cli. ![ossoft][oss]
 
+- [Tmux](https://github.com/tmux/tmux) - A very useful terminal multiplexer to multitask as well as improve productivity. ![ossoft][oss]
+
+
+  - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - An addon that allows you to manage projects and open a full environment quickly. ![ossoft][oss]
+
+
 - [tldr](https://github.com/tldr-pages/tldr) - A simpler to read and easier to read community-based alternative to manpages ![ossoft][oss]
 
 - [Topgrade](https://github.com/r-darwish/topgrade) - A full command line update system ![ossoft][oss]
