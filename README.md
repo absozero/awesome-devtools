@@ -124,12 +124,15 @@ All of these tools and/or resources are open source unless specified
 
 - [Free-prog-books](https://ebookfoundation.github.io/free-programming-books) - A resource to find free books relating to tech. ![ossoft][oss]
 
-- [Hacker News](https://news.ycombinator.com/) - A news source for tech and other related topics. `closed source`
+- [Hacker News](https://news.ycombinator.com/) - A news source for tech and other related topics. `closed source` ![frees][free]
 
 - [Carbon](https://carbon.now.sh/) - A tool to make beautiful pictures of code. ![ossoft][oss]
 
 - [Github1s](https://github1s.com) - A tool to show the structure of github repositories, as if viewing them in VSCode. ![ossoft][oss]
 
+- [Cloud Shell](https://shell.cloud.google.com/?pli=1&show=ide%2Cterminal) - A theia-like IDE to run code in a full-featured web ide, with 5gb of storage. ![frees][free]
+
+- [gitpod](https://gitpod.io) - A cloud dev environment to build a place to code in in no time! ![ossoft][oss]
 ## Follow
 [Table of Contents](#contents)
 
