@@ -80,6 +80,8 @@ All of these tools and/or resources are open source unless specified
 
 - [fzf](https://github.com/junegunn/fzf) - A fuzzy finder that can be used in many environments, from vim to cd'ing ![ossoft][oss]
 
+- [gh](https://cli.github.com) - The official github cli. Now you can use github without even opening a browser! ![ossoft][oss]
+
 - [git](https://git.kernel.org/pub/scm/git/git.git) - An amazing and highly used version control system. ![ossoft][oss]
 
 - [Gping](https://github.com/orf/gping) - Ping with a graph. Exponentially better than regular ping in many cases. ![ossoft][oss]
