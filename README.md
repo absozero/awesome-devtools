@@ -68,6 +68,8 @@ All of these tools and/or resources are open source unless specified
 
 - [Chezmoi](https://chezmoi.io) - A dotfile manager with a high number of features and tools to make managing dotfiles easy ![ossoft][oss]
 
+- [Cmus](https://cmus.github.io/) - A command line music player. Does its 1 job extremely well, following the UNIX philosophy. ![ossoft][oss]
+
 - [Delta](https://github.com/dandavison/delta) - A tool to see differences between text files. ![ossoft][oss]
 
 - [Duf](https://github.com/muesli/duf) - A df alternative that is fast and informative. ![ossoft][oss]
@@ -94,6 +96,8 @@ All of these tools and/or resources are open source unless specified
 
 - [Modern-unix-commands](https://github.com/ibraheemdev/modern-unix) - A set of modern linux alternatives for older commands.
 
+- [Mpv](https://mpv.io/) - This tool is almost like VLC, but for the cli, in the sense that it can play most of everything you throw at it, even [twitch](https://twitch.tv) streams, and even supports ascii output! ![ossoft][oss]
+
 - [Restic](https://restic.net) - A cross platform backup system with many features regarding security and general use.![ossoft][oss]
 
 - [Ripgrep](https://github.com/BurntSushi/ripgrep) - Modern alternative to grep. It is much faster than what it tries to replace. ![ossoft][oss]
@@ -101,6 +105,8 @@ All of these tools and/or resources are open source unless specified
 - [sd](https://github.com/chmln/sd) - A modern alternative to what sed has to offer. ![ossoft][oss]
 
 - [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - A streamlined task manager on the cli. ![ossoft][oss]
+
+- [Timg](https://github.com/hzeller/timg) - An ascii image and GIF viewer for the command line, with many options to enhance viewing. ![ossoft][oss]
 
 - [Tmux](https://github.com/tmux/tmux) - A very useful terminal multiplexer to multitask as well as improve productivity. ![ossoft][oss]
 
