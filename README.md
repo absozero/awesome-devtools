@@ -117,6 +117,8 @@ All of these tools and/or resources are open source unless specified
 
 - [Mpv](https://mpv.io/) - This tool is almost like VLC, but for the cli, in the sense that it can play most of everything you throw at it, even [twitch](https://twitch.tv) streams, and even supports ascii output! ![ossoft][oss]
 
+- [Radare2](https://rada.re/n/radare2.html) - A tool that is more than a hex editor, a full fledged cli debugger. 
+
 -🌟 [Restic](https://restic.net) - A cross platform backup system with many features regarding security and general use.![ossoft][oss]
 
 - [Ripgrep](https://github.com/BurntSushi/ripgrep) - Modern alternative to grep. It is much faster than what it tries to replace. ![ossoft][oss]
