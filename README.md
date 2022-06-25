@@ -87,6 +87,8 @@ All of these tools and/or resources are open source unless specified
 
 -🌟 [Chezmoi](https://chezmoi.io) - A dotfile manager with a high number of features and tools to make managing dotfiles easy ![ossoft][oss]
 
+- [Cheat.sh](https://cheat.sh) - A cheatsheet source that can be accessed from the cli, that provides a massive cheatsheet library from multiple sources. Works best from a unix-like os, but can be used with curl/wget/httpie
+
 - [Cmus](https://cmus.github.io/) - A command line music player. Does its 1 job extremely well, following the UNIX philosophy. ![ossoft][oss]
 
 - [Delta](https://github.com/dandavison/delta) - A tool to see differences between text files. ![ossoft][oss]
@@ -127,15 +129,15 @@ All of these tools and/or resources are open source unless specified
 
 - [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - A streamlined task manager on the cli. ![ossoft][oss]
 
+-🌟 [Tealdeer](https://dbrgn.github.io/tealdeer/) - A client for the tldr pages that uses a cache approach, and allows for offline use and custom pages, making it my personal favorite tldr client.
+
 - [Timg](https://github.com/hzeller/timg) - An ascii image and GIF viewer for the command line, with many options to enhance viewing. ![ossoft][oss]
+
+- [tldr](https://github.com/tldr-pages/tldr) - A simpler to read and easier to read community-based alternative to manpages ![ossoft][oss]
 
 -🌟 [Tmux](https://github.com/tmux/tmux) - A very useful terminal multiplexer to multitask as well as improve productivity. ![ossoft][oss]
 
-
   - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - An addon that allows you to manage projects and open a full environment quickly. ![ossoft][oss]
-
-
-- [tldr](https://github.com/tldr-pages/tldr) - A simpler to read and easier to read community-based alternative to manpages ![ossoft][oss]
 
 - [Topgrade](https://github.com/r-darwish/topgrade) - A full command line update system ![ossoft][oss]
 
