@@ -115,6 +115,8 @@ All of these tools and/or resources are open source unless specified
 
 - [jq](https://github.com/stedolan/jq) - A parser for all things json ![ossoft][oss]
 
+- [json-server](https://github.com/typicode/json-server) - A cool way to set up a local mock json api for use to mock a real API.
+
 - [Modern-unix-commands](https://github.com/ibraheemdev/modern-unix) - A set of modern linux alternatives for older commands.
 
 - [Mpv](https://mpv.io/) - This tool is almost like VLC, but for the cli, in the sense that it can play most of everything you throw at it, even [twitch](https://twitch.tv) streams, and even supports ascii output! ![ossoft][oss]
