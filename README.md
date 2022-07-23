@@ -101,6 +101,8 @@ All of these tools and/or resources are open source unless specified
 
 - [fd](https://github.com/sharkdp/fd) - A modern alternative to the find command. ![ossoft][oss]
 
+- [ffmpeg](https://ffmpeg.org) - A extremely useful console application to work with videos and audio.
+
 - [fzf](https://github.com/junegunn/fzf) - A fuzzy finder that can be used in many environments, from vim to cd'ing ![ossoft][oss]
 
 - [gh](https://cli.github.com) - The official github cli. Now you can use github without even opening a browser! ![ossoft][oss] 🌟
