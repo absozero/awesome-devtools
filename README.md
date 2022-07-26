@@ -77,7 +77,11 @@ All of these tools and/or resources are open source unless specified
 
 ---
 
+- [Algernon](https://algernon.roboticoverlords.org/) - An open sourve web sever with rendering markown and much more out of the box.
+
 - [aria2](https://github.com/aria2/aria2) - A command line downloader with fast speeds ![ossoft][oss] 🌟
+
+- [Algernon](https://algernon.roboticoverlords.org/) - An open sourve web sever with rendering markown and much more out of thr box
 
 - [Bat](https://github.com/sharkdp/bat) - A cat alternative with syntax highlighting and much more. ![ossoft][oss]
 
