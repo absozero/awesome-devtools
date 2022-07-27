@@ -63,6 +63,7 @@ All of these tools and/or resources are open source unless specified
 
 - [VSCodium](https://vscodium.com/) - A fully open source liscenced and usable build of VSCode, which by default has closed-source binaries ![ossoft][oss] 🌟
 
+- []() - A media player for multiple platforms, with support for local and remote video and audio.
 ## Frameworks
 [Table of Contents](#contents)
 
