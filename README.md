@@ -58,12 +58,28 @@ All of these tools and/or resources are open source unless specified
 [Table of Contents](#contents)
 
 ---
+- [Antimicrox](https://github.com/AntiMicroX/antimicroX) - Assign game controller input to keys on the computer.
+
+- [Blender](https://blender.org) - A piece of free and open source software that enables a full pipeline for people wanting to build useful items with 3d in computing,
+and also has vfx and video editing built in.
+
+- [Bottles](https://usebottles.com/) - Software that is helping manage windows software running on linux with a great GUI.
 
 - [gimp](https://gimp.org) - A free and open source replacement to photoshop. ![ossoft][oss]
 
+- [Godot](https://godotengine.org) - A free and open source game engine that allows to create both 2d and 3d games intuitively.
+
+- [OBS Studio](https://obsproject.org) - A popular open source tool to record and stream customizable video recordings.
+
+- [Rawtherapee](http://rawtherapee.com/) - A great RAW editor and open source alternative to Lightroom
+
+- [Responsively](https://responsively.app/) - A must-have tool for developers that enables simple and easy testing for multiple device types
+
+- [Shotcut](https://www.shotcut.org/) - A video editor that is built for heavy users and is open to the public for easy use.
+
 - [VSCodium](https://vscodium.com/) - A fully open source liscenced and usable build of VSCode, which by default has closed-source binaries ![ossoft][oss] 🌟
 
-- []() - A media player for multiple platforms, with support for local and remote video and audio.
+- [vlc](https://www.videolan.org/vlc) - A media player for multiple platforms, with support for local and remote video and audio.
 ## Frameworks
 [Table of Contents](#contents)
 
