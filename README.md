@@ -122,9 +122,15 @@ All of these tools and/or resources are open source unless specified
 
 - [json-server](https://github.com/typicode/json-server) - A cool way to set up a local mock json api for use to mock a real API.
 
+- [miniserve]
+
 - [Modern-unix-commands](https://github.com/ibraheemdev/modern-unix) - A set of modern linux alternatives for older commands.
 
 - [Mpv](https://mpv.io/) - This tool is almost like VLC, but for the cli, in the sense that it can play most of everything you throw at it, even [twitch](https://twitch.tv) streams, and even supports ascii output! ![ossoft][oss]
+
+- [Onefetch]
+
+- [Pastel]
 
 - [Poetry](https://python-poetry.org/) - A depnedency manager for python that is miles ahead of pip or other apps.
 
@@ -147,6 +153,8 @@ All of these tools and/or resources are open source unless specified
 - [Tmux](https://github.com/tmux/tmux) - A very useful terminal multiplexer to multitask as well as improve productivity. ![ossoft][oss] 🌟
 
   - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - An addon that allows you to manage projects and open a full environment quickly. ![ossoft][oss]
+
+  [tokei]
 
 - [Topgrade](https://github.com/r-darwish/topgrade) - A full command line update system ![ossoft][oss]
 
