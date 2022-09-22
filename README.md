@@ -39,6 +39,7 @@ All of these tools and/or resources are open source unless specified
 
 ## Contents
 
+- [Bookmarks](#bookmarks)
 - [Desktop Apps](#desktop-apps)
 - [Frameworks](#frameworks)
 - [Linux command-line](#command-line---linux)
@@ -52,6 +53,12 @@ All of these tools and/or resources are open source unless specified
 <!-- CONTENT -->
 
 ---
+
+## Bookmarks
+[Table of Contents](#contents)
+
+---
+### Project-based-learning + Ideas
 
 
 ## Desktop apps
@@ -69,9 +76,7 @@ and also has vfx and video editing built in.
 
 - [Godot](https://godotengine.org) - A free and open source game engine that allows to create both 2d and 3d games intuitively.
 
-- [Helio]
-
-- [Lmms]
+- [Lmms]("https://lmms.io") - A DAW with advanced features for power users, fully open source and free.
 
 - [OBS Studio](https://obsproject.org) - A popular open source tool to record and stream customizable video recordings.
 
@@ -85,7 +90,7 @@ and also has vfx and video editing built in.
 
 - [vlc](https://www.videolan.org/vlc) - A media player for multiple platforms, with support for local and remote video and audio.
 
-- [Xournalpp]
+- [Xournalpp]("https://xournalpp.github.io") - A pdf editor that allows for custom annotations on top of a pdf canvas.
 ## Frameworks
 [Table of Contents](#contents)
 
