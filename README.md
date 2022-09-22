@@ -59,7 +59,7 @@ All of these tools and/or resources are open source unless specified
 
 ---
 - [Antimicrox](https://github.com/AntiMicroX/antimicroX) - Assign game controller input to keys on the computer.
-
+b
 - [Blender](https://blender.org) - A piece of free and open source software that enables a full pipeline for people wanting to build useful items with 3d in computing,
 and also has vfx and video editing built in.
 
@@ -68,6 +68,10 @@ and also has vfx and video editing built in.
 - [gimp](https://gimp.org) - A free and open source replacement to photoshop. ![ossoft][oss]
 
 - [Godot](https://godotengine.org) - A free and open source game engine that allows to create both 2d and 3d games intuitively.
+
+- [Helio]
+
+- [Lmms]
 
 - [OBS Studio](https://obsproject.org) - A popular open source tool to record and stream customizable video recordings.
 
@@ -80,6 +84,8 @@ and also has vfx and video editing built in.
 - [VSCodium](https://vscodium.com/) - A fully open source liscenced and usable build of VSCode, which by default has closed-source binaries ![ossoft][oss] 🌟
 
 - [vlc](https://www.videolan.org/vlc) - A media player for multiple platforms, with support for local and remote video and audio.
+
+- [Xournalpp]
 ## Frameworks
 [Table of Contents](#contents)
 
