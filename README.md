@@ -60,13 +60,32 @@ All of these tools and/or resources are open source unless specified
 ---
 ### Project-based-learning + Ideas
 
+- [Project based learning](https://github.com/practical-tutorials/project-based-Learning) - A list of example projects that can be hacked upon to create an application.
+
+- [Projects](https://github.com/karan/Projects) - A list of example projects that can be made and customized by a user
+
+- [Build your own x](https://github.com/codecrafters-io/build-your-own-x) - A tool that helps you learn to program with tutorials for building projects
+
+- [App Ideas](https://github.com/florinpop17/app-ideas) - A list of ideas to make an app to serve to users.
+
+- [Open source ideas](https://github.com/open-source-ideas/ideas) - A list of ideas people advertise to check out and take inspiration from.
+
+### Learning resources
+
+- [Ebookfoundation ebooks](https://ebookfoundation.github.io/free-programming-books/) - A list of free ebooks to study and learn from.
+
+- [Roadmaps](https://roadmap.sh) - Roadmaps for multiple developer paths
+
+- [TheAlgorithms](https://the-algorithms.com) - Algorithm practice and studies for developers and programmers
+
+- [Awesome lists](https://github.com/sindresorhus/awesome) - Lists about many interesting and explorable topics.
 
 ## Desktop apps
 [Table of Contents](#contents)
 
 ---
 - [Antimicrox](https://github.com/AntiMicroX/antimicroX) - Assign game controller input to keys on the computer.
-b
+
 - [Blender](https://blender.org) - A piece of free and open source software that enables a full pipeline for people wanting to build useful items with 3d in computing,
 and also has vfx and video editing built in.
 
