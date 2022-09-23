@@ -95,7 +95,7 @@ and also has vfx and video editing built in.
 
 - [Godot](https://godotengine.org) - A free and open source game engine that allows to create both 2d and 3d games intuitively.
 
-- [Lmms]("https://lmms.io") - A DAW with advanced features for power users, fully open source and free.
+- [Lmms](https://lmms.io) - A DAW with advanced features for power users, fully open source and free.
 
 - [OBS Studio](https://obsproject.org) - A popular open source tool to record and stream customizable video recordings.
 
@@ -109,7 +109,7 @@ and also has vfx and video editing built in.
 
 - [vlc](https://www.videolan.org/vlc) - A media player for multiple platforms, with support for local and remote video and audio.
 
-- [Xournalpp]("https://xournalpp.github.io") - A pdf editor that allows for custom annotations on top of a pdf canvas.
+- [Xournalpp](https://xournalpp.github.io) - A pdf editor that allows for custom annotations on top of a pdf canvas.
 ## Frameworks
 [Table of Contents](#contents)
 
@@ -168,19 +168,17 @@ and also has vfx and video editing built in.
 
 - [json-server](https://github.com/typicode/json-server) - A cool way to set up a local mock json api for use to mock a real API.
 
-- [miniserve]
+- [miniserve](https://github.com/svenstaro/miniserve) - Serve files over http quickly!
 
 - [Modern-unix-commands](https://github.com/ibraheemdev/modern-unix) - A set of modern linux alternatives for older commands.
 
 - [Mpv](https://mpv.io/) - This tool is almost like VLC, but for the cli, in the sense that it can play most of everything you throw at it, even [twitch](https://twitch.tv) streams, and even supports ascii output! ![ossoft][oss]
 
-<<<<<<< HEAD
 - [Pdm](https://pdm.fming.dev) - A python dependency manger with support for pyproject.toml, a modern alternative for setup.py
-=======
-- [Onefetch]
 
-- [Pastel]
->>>>>>> 598d97ca6da38dc8cb2ed2dd27885ed9de0b0087
+- [Onefetch](https://github.com/o2sh/onefetch) - Neofetch, but for git repositories.
+
+- [Pastel](https://github.com/sharkdp/pastel) - Manipulate and edit colors on the cli
 
 - [Poetry](https://python-poetry.org/) - A depnedency manager for python that is miles ahead of pip or other apps.
 
@@ -204,7 +202,7 @@ and also has vfx and video editing built in.
 
   - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - An addon that allows you to manage projects and open a full environment quickly. ![ossoft][oss]
 
-  [tokei]
+  [tokei](https://github.com/XAMPPRocky/tokei) - Show stats about code, quickly
 
 - [Topgrade](https://github.com/r-darwish/topgrade) - A full command line update system ![ossoft][oss]
 
