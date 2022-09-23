@@ -39,6 +39,7 @@ All of these tools and/or resources are open source unless specified
 
 ## Contents
 
+- [Bookmarks](#bookmarks)
 - [Desktop Apps](#desktop-apps)
 - [Frameworks](#frameworks)
 - [Linux command-line](#command-line---linux)
@@ -53,17 +54,62 @@ All of these tools and/or resources are open source unless specified
 
 ---
 
+## Bookmarks
+[Table of Contents](#contents)
+
+---
+### Project-based-learning + Ideas
+
+- [Project based learning](https://github.com/practical-tutorials/project-based-Learning) - A list of example projects that can be hacked upon to create an application.
+
+- [Projects](https://github.com/karan/Projects) - A list of example projects that can be made and customized by a user
+
+- [Build your own x](https://github.com/codecrafters-io/build-your-own-x) - A tool that helps you learn to program with tutorials for building projects
+
+- [App Ideas](https://github.com/florinpop17/app-ideas) - A list of ideas to make an app to serve to users.
+
+- [Open source ideas](https://github.com/open-source-ideas/ideas) - A list of ideas people advertise to check out and take inspiration from.
+
+### Learning resources
+
+- [Ebookfoundation ebooks](https://ebookfoundation.github.io/free-programming-books/) - A list of free ebooks to study and learn from.
+
+- [Roadmaps](https://roadmap.sh) - Roadmaps for multiple developer paths
+
+- [TheAlgorithms](https://the-algorithms.com) - Algorithm practice and studies for developers and programmers
+
+- [Awesome lists](https://github.com/sindresorhus/awesome) - Lists about many interesting and explorable topics.
 
 ## Desktop apps
 [Table of Contents](#contents)
 
 ---
+- [Antimicrox](https://github.com/AntiMicroX/antimicroX) - Assign game controller input to keys on the computer.
+
+- [Blender](https://blender.org) - A piece of free and open source software that enables a full pipeline for people wanting to build useful items with 3d in computing,
+and also has vfx and video editing built in.
+
+- [Bottles](https://usebottles.com/) - Software that is helping manage windows software running on linux with a great GUI.
 
 - [gimp](https://gimp.org) - A free and open source replacement to photoshop. ![ossoft][oss]
 
+- [Godot](https://godotengine.org) - A free and open source game engine that allows to create both 2d and 3d games intuitively.
+
+- [Lmms]("https://lmms.io") - A DAW with advanced features for power users, fully open source and free.
+
+- [OBS Studio](https://obsproject.org) - A popular open source tool to record and stream customizable video recordings.
+
+- [Rawtherapee](http://rawtherapee.com/) - A great RAW editor and open source alternative to Lightroom
+
+- [Responsively](https://responsively.app/) - A must-have tool for developers that enables simple and easy testing for multiple device types
+
+- [Shotcut](https://www.shotcut.org/) - A video editor that is built for heavy users and is open to the public for easy use.
+
 - [VSCodium](https://vscodium.com/) - A fully open source liscenced and usable build of VSCode, which by default has closed-source binaries ![ossoft][oss] 🌟
 
-- []() - A media player for multiple platforms, with support for local and remote video and audio.
+- [vlc](https://www.videolan.org/vlc) - A media player for multiple platforms, with support for local and remote video and audio.
+
+- [Xournalpp]("https://xournalpp.github.io") - A pdf editor that allows for custom annotations on top of a pdf canvas.
 ## Frameworks
 [Table of Contents](#contents)
 
@@ -122,11 +168,19 @@ All of these tools and/or resources are open source unless specified
 
 - [json-server](https://github.com/typicode/json-server) - A cool way to set up a local mock json api for use to mock a real API.
 
+- [miniserve]
+
 - [Modern-unix-commands](https://github.com/ibraheemdev/modern-unix) - A set of modern linux alternatives for older commands.
 
 - [Mpv](https://mpv.io/) - This tool is almost like VLC, but for the cli, in the sense that it can play most of everything you throw at it, even [twitch](https://twitch.tv) streams, and even supports ascii output! ![ossoft][oss]
 
+<<<<<<< HEAD
 - [Pdm](https://pdm.fming.dev) - A python dependency manger with support for pyproject.toml, a modern alternative for setup.py
+=======
+- [Onefetch]
+
+- [Pastel]
+>>>>>>> 598d97ca6da38dc8cb2ed2dd27885ed9de0b0087
 
 - [Poetry](https://python-poetry.org/) - A depnedency manager for python that is miles ahead of pip or other apps.
 
@@ -149,6 +203,8 @@ All of these tools and/or resources are open source unless specified
 - [Tmux](https://github.com/tmux/tmux) - A very useful terminal multiplexer to multitask as well as improve productivity. ![ossoft][oss] 🌟
 
   - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - An addon that allows you to manage projects and open a full environment quickly. ![ossoft][oss]
+
+  [tokei]
 
 - [Topgrade](https://github.com/r-darwish/topgrade) - A full command line update system ![ossoft][oss]
 
