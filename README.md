@@ -140,6 +140,8 @@ and also has vfx and video editing built in.
 
 - [Cmus](https://cmus.github.io/) - A command line music player. Does its 1 job extremely well, following the UNIX philosophy. ![ossoft][oss]
 
+- [Croc](https://github.com/schollz/croc) - An open source solution to transfer files quickly and easily between systems, and a relay is very easily self-hostable.
+
 - [Delta](https://github.com/dandavison/delta) - A tool to see differences between text files. ![ossoft][oss]
 
 - [Duf](https://github.com/muesli/duf) - A df alternative that is fast and informative. ![ossoft][oss]
