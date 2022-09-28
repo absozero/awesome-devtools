@@ -97,6 +97,8 @@ and also has vfx and video editing built in.
 
 - [Lmms](https://lmms.io) - A DAW with advanced features for power users, fully open source and free.
 
+- [Logseq](https://logseq.com) - A knowledge base creation application that will help to streamline ideas and parts of daily work to make accessing the knowledge easier.
+
 - [OBS Studio](https://obsproject.org) - A popular open source tool to record and stream customizable video recordings.
 
 - [Rawtherapee](http://rawtherapee.com/) - A great RAW editor and open source alternative to Lightroom
