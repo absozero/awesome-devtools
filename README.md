@@ -162,6 +162,8 @@ and also has vfx and video editing built in.
 
 - [git](https://git.kernel.org/pub/scm/git/git.git) - An amazing and highly used version control system. ![ossoft][oss] 🌟
 
+- [Glow](https://github.com/charmbracelet/glow) - A markdown renderer for the command line.
+
 - [Gping](https://github.com/orf/gping) - Ping with a graph. Exponentially better than regular ping in many cases. ![ossoft][oss]
 
 - [Hyperfine](https://github.com/sharkdp/hyperfine) - An insane benchmarking tool to compare speeds . ![ossoft][oss]
@@ -194,6 +196,8 @@ and also has vfx and video editing built in.
 
 - [sd](https://github.com/chmln/sd) - A modern alternative to what sed has to offer. ![ossoft][oss]
 
+- [Soft-serve](https://github.com/charmbracelet/soft-serve) - A selfhosted git server accessible from the terminal.
+
 - [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - A streamlined task manager on the cli. ![ossoft][oss]
 
 - [Tealdeer](https://dbrgn.github.io/tealdeer/) - A client for the tldr pages that uses a cache approach, and allows for offline use and custom pages, making it my personal favorite tldr client. 🌟
@@ -209,6 +213,8 @@ and also has vfx and video editing built in.
   [tokei](https://github.com/XAMPPRocky/tokei) - Show stats about code, quickly
 
 - [Topgrade](https://github.com/r-darwish/topgrade) - A full command line update system ![ossoft][oss]
+
+- [VHS](https://github.com/charmbracelet/vhs) - Terminal recorder with configuration rather than recording.
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - An awesome alternative to yt-dlp with a lot of improvements, and even sponsorblock support 🌟
 
