@@ -162,6 +162,8 @@ and also has vfx and video editing built in.
 
 - [git](https://git.kernel.org/pub/scm/git/git.git) - An amazing and highly used version control system. ![ossoft][oss] 🌟
 
+- [gitui](https://github.com/extrawurst/gitui) - A command line git gui
+
 - [Glow](https://github.com/charmbracelet/glow) - A markdown renderer for the command line.
 
 - [Gping](https://github.com/orf/gping) - Ping with a graph. Exponentially better than regular ping in many cases. ![ossoft][oss]
