@@ -121,6 +121,8 @@ and also has vfx and video editing built in.
 
 - [Oh-my-bash](https://github.com/ohmybash/oh-my-bash) - Another bash framework which tries to replicate oh-my-zsh for bash. ![ossoft][oss]
 
+- [Pocketbase](https://pocketbase.io/) - Database in a file
+
 ## Command line - Linux
 [Table of Contents](#contents)
 
