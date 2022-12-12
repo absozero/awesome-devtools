@@ -127,6 +127,7 @@ and also has vfx and video editing built in.
 [Table of Contents](#contents)
 
 ---
+- [Act](https://github.com/nektos/act) - Run github actions locally
 
 - [Algernon](https://algernon.roboticoverlords.org/) - An open sourve web sever with rendering markown and much more out of the box.
 
