@@ -240,8 +240,15 @@ and also has vfx and video editing built in.
 
 ---
 
+- [Distrobox](https://github.com/89luca89/distrobox) - A tool used to spin up multiple operating systems with access to your home sirectory and leverages container technologies like podman and docker to do so.
+
 - [Docker](https://docker.com) - A open tool for containerization, to run applications on multiple places the same. ![frees][free] 🌟
+
   - [Portainer](https://portainer.io) - Simply, a web ui for docker, but is extremely feature rich, to the level that docker cli is no more necessary when this tool is used. ![ossoft][oss]
+
+- [Podman](https://podman.io/) - Another container manager, known as podman, that uses a non-root system with no daemon and a focus on the lifetime of containers.
+
+- [Vagrant](https://www.vagrantup.com/) - An open-source tool to provision reproducible isolated development environments using a variety of backend providers.
 
 ## Selfhosted apps
 [Table of Contents](#contents)
