@@ -269,6 +269,9 @@ and also has vfx and video editing built in.
 [Table of Contents](#contents)
 
 ---
+- [Draw.io](https://app.diagrams.net/) - An open source whiteboard and diagramming tool that I use to plan projects and sketch outlines.
+
+- [Excalidraw](https://excalidraw.com) - An open source web whiteboard. I personally use it for notes.
 
 - [Farside](https://farside.link) - A redirection service that allows to load balance and choose between multiple privacy friendly alternative frontends
 
@@ -283,6 +286,9 @@ and also has vfx and video editing built in.
 - [Cloud Shell](https://shell.cloud.google.com/?pli=1&show=ide%2Cterminal) - A theia-like IDE to run code in a full-featured web ide, with 5gb of storage. ![frees][free] 🌟
 
 - [gitpod](https://gitpod.io) - A cloud dev environment to build a place to code in in no time! ![ossoft][oss] 🌟
+
+- [Tldraw](https://www.tldraw.com/) - Another open source whiteboard app with a simpler overall model.
+
 ## Follow
 [Table of Contents](#contents)
 
